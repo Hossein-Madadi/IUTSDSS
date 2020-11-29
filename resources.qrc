@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/plugins/SDSSRoad">
+    <file>roadpix.png</file>
+  </qresource>
+</RCC>
